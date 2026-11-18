@@ -2,26 +2,22 @@
 
 **Инфохимики и дизайнеры · ИТМО · 2026**
 
-**В проекте участвовали:
-Иванец Никита Вячеславович
-ИСУ 505396 // 
-Окорокова Елизавета Вадимовна
-ИСУ 504843**
-
 Исследуем, как распределены характеристики вина и как связаны масса и цена бриллиантов. На данных о pH сравниваем несколько способов генерации случайных значений. Отчёт объединяет статистическое исследование, интерактивные графики и отдельную часть КТвД.
 
-[Открыть в Google Colab](https://colab.research.google.com/drive/1t0ezoYShehzp7R8UtJfTTSB9LwQY3_rT?usp=sharing) · [Ноутбук](Lab01.ipynb) · [Скачать HTML-отчёт](Lab01.html?raw=true)
+[![Открыть в Colab](https://img.shields.io/badge/Colab-Открыть_ноутбук-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1t0ezoYShehzp7R8UtJfTTSB9LwQY3_rT?usp=sharing)
+[![HTML-отчёт](https://img.shields.io/badge/Отчёт-Открыть_HTML-315A86?style=for-the-badge&logo=html5&logoColor=white)](https://nikitaivanets.github.io/Stat-Lab01/Lab01.html)
+[![Ноутбук](https://img.shields.io/badge/Jupyter-Исходный_ноутбук-59636E?style=for-the-badge&logo=jupyter&logoColor=white)](Lab01.ipynb)
 
 ## С чего начать
 
 | Задача | Что открыть |
 |---|---|
-| Прочитать работу и попробовать графики | Скачать [Lab01.html](Lab01.html?raw=true) и открыть в браузере |
+| Прочитать работу и попробовать графики | Открыть [HTML-отчёт](https://nikitaivanets.github.io/Stat-Lab01/Lab01.html) |
 | Посмотреть код и воспроизвести расчёты | [Lab01.ipynb](Lab01.ipynb) или Google Colab по ссылке выше |
 | Запустить приложение marimo | [app_marimo.py](app_marimo.py), порядок запуска ниже |
 | Проверить итоговые числа | Таблицы в отчёте и CSV в [metrics/](metrics/) |
 
-В GitHub HTML-файл открывается как исходный код. После скачивания он работает как страница с боковым меню, поиском по разделам и интерактивными панелями. Для размещения отчёта на GitHub Pages подготовлен [index.html](index.html).
+Кнопка «Открыть HTML» ведёт на GitHub Pages: отчёт открывается в браузере с боковым меню, поиском и интерактивными панелями. Ссылка работает после включения GitHub Pages в настройках репозитория. Для просмотра без публикации можно открыть файл `Lab01.html` из скачанного архива.
 
 ## Участники и распределение работы
 
