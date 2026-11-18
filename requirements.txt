@@ -1,0 +1,10 @@
+numpy>=2.0
+pandas>=2.2
+scipy>=1.14
+matplotlib>=3.9
+ipython>=8
+plotly>=6
+nbformat>=5.10
+nbconvert>=7.16
+marimo>=0.25.2
+beautifulsoup4>=4.12

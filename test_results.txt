@@ -1,0 +1,13 @@
+test_alias_mass_and_boundaries (test_lab.GeneratorContract.test_alias_mass_and_boundaries) ... ok
+test_invalid_inputs (test_lab.GeneratorContract.test_invalid_inputs) ... ok
+test_repeatability_and_domain (test_lab.GeneratorContract.test_repeatability_and_domain) ... ok
+test_shared_context_and_marimo_sections (test_lab.GeneratorContract.test_shared_context_and_marimo_sections) ... ok
+test_correlations_and_distances (test_interactive.BrowserStatisticsTests.test_correlations_and_distances) ... ok
+test_distribution_functions (test_interactive.BrowserStatisticsTests.test_distribution_functions) ... ok
+test_sampling_and_generators (test_interactive.BrowserStatisticsTests.test_sampling_and_generators) ... ok
+test_wine_contingency_against_scipy (test_interactive.BrowserStatisticsTests.test_wine_contingency_against_scipy) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 2.690s
+
+OK
